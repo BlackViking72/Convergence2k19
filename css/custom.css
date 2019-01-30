@@ -1,0 +1,63 @@
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #000;
+}
+.temp{
+    position: relative;
+    height: 100%;
+}
+.image.fixed{
+
+}
+div.days{
+    position: relative;
+    display: block;
+    width: 2em;
+    left:2.2rem;
+    color: #000;
+    font-family: "metropolis-bold", sans-serif;
+    font-size: 8rem;
+}
+div.days .day{
+    font-family: "Verdana";
+    position: absolute;
+    top: 7.4rem;
+    left: 12.5rem;
+    color: #fff;
+    background-color: #f00;
+    font-size: 2rem;
+    border-radius: 5px;
+    padding: 2px 7px 2px 7px;
+}
+
+div.time{
+    position: relative;
+    color: #000;
+    top:-0.5rem;
+    left: 2.5rem;
+    font-size: 1.9rem;
+    font-family: "metropolis-light", sans-serif;
+}
+div.time .hours{
+    position: absolute;
+    top:0;
+    left:0;
+}
+div.time .minutes{
+    position: absolute;
+    top:0;
+    left:5.2rem;
+}
+div.time .seconds{
+    position: absolute;
+    top:0;
+    left:10.9rem;
+}
+.hms{
+    font-size: 1.4rem;
+    color: #FF2C00;
+}
+
+
