@@ -19,7 +19,7 @@
     <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
     <title>Convergence</title>
     <script>
-        var countDownDate = <?php echo strtotime('Sep 1, 2019 00:00:00') ?> * 1000;
+        var countDownDate = <?php echo strtotime('Sep 15, 2019 00:00:00') ?> * 1000;
         var now = <?php echo time() ?> * 1000;
 
         // Update the count down every 1 second
