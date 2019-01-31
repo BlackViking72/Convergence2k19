@@ -61,11 +61,11 @@
     </style>
 </head>
 <body onload="particle()" style="background: #fff;">
-<!-- particles.js container --> 
+<!-- particles.js container -->
 <div id="particles-js"></div>
 <!-- stats - count particles -->
 
-<!-- stats.js lib --> 
+<!-- stats.js lib -->
 
     <div class="temp">
         <div class="row"></div>
