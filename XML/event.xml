@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<events>
+  <ce>
+    <event>Poster Presentaion</event>
+    <event>Project Presentaion</event>
+    <event>Code Hunt</event>
+    <event>Lan Arena</event>
+  </ce>
+  <civil>
+    <event>Civil Art Attack</event>
+    <event>Workshop</event>
+    <event>Ted Talks</event>
+    <event>Card Stucture</event>
+  </civil>
+</events>
